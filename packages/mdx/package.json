@@ -80,7 +80,7 @@
     "unist-util-remove-position": "^5.0.0",
     "unist-util-visit": "^5.0.0",
     "vfile": "^6.0.3",
-    "zod": "^4.1.13"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@fumadocs/mdx-remote": "workspace:*",
